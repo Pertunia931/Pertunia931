@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=200&section=header&text=Hi%20I'm%20Yvonne%20Nkhasi!&fontSize=40&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20Information%20Technology%20Business Analysis%20Graduate&descAlignY=55&animation=twinkling" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=200&section=header&text=Hi%20I'm%20Pertunia%20Kgopane!&fontSize=40&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20Information%20Technology%20Graduate&descAlignY=55&animation=twinkling" alt="banner" />
 </p>
 
 ---
 
 
-<h3 align="center">💻 Full Stack Developer | Information Technology Graduate (2023)</h3>
+
+<h3 align="center">💻 Business Analysis | Information Technology Graduate (2023)</h3>
 <p align="center">Committed, enthusiastic, and ready to build innovative software solutions.</p>
 
 ---
