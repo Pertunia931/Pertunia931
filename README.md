@@ -37,24 +37,15 @@
 ## 🧠 Education
 
 **Diploma in Information Technology**  
-📍 *Richfield Graduate Institute of Business*  
-📅 *Graduated April 2023*
+📍 *Vaal University of Technology Graduate*  
+📅 *Graduated 2021*
 
 ---
 
 ## 💼 Experience
 
-### 🏢 @ Pak (PTY) Ltd  
-*2018 – 2019*  
-- Ensured product quality standards before packaging.
-
-### 🏨 Zuloo Holdings — Guest House Host  
-*2023 – 2024*  
-- Maintained cleanliness and ensured guest satisfaction.  
-- Managed reception duties, bookings, and payments.
-
 ### 👩‍💻 Afrika Tikkun (DYICT) — Backend Software Developer Trainee 
-*June 2025 – October 2025*  
+*May 2025 – October 2025*  
 - Developed Java backend web apps using OOP principles.  
 - Built console applications and collaborated via Git/GitHub.
 
@@ -84,14 +75,14 @@ AmbuConnect is a web-based emergency response system enabling patients to reques
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="mailto:ynkhasi1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yvonne-nkhasi-ab5bba378" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pertuniapheladi78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/yourgithubid?v=4" alt="Yvonne Nkhasi" width="150" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/yourgithubid?v=4" alt="Pertunia Kgopane" width="150" style="border-radius: 50%;" />
 </p>
 
 <p align="center"><em>Feel free to reach out for collaboration or networking!</em></p>
