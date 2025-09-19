@@ -6,16 +6,17 @@
 
 
 
-<h3 align="center">💻 Business Analysis | Information Technology Graduate (2023)</h3>
-<p align="center">Committed, enthusiastic, and ready to build innovative software solutions.</p>
+<h3 align="center">💻 Business Analysis | Information Technology Graduate (2021)</h3>
+<p align="center">Dedicated, eager, and ready to create new and useful software solutions.</p>
 
 ---
 
 ## 👩‍🎓 About Me
 
-🎓 Diploma in Information Technology graduate from **Vaal University of Technology** (April 2021).  
-💡 Passionate about backend and frontend development, solving real-world problems with code.  
-🌱 Thrives in collaborative environments, eager to keep learning and growing as a software engineer.
+🎓 Diploma in Information Technology graduate from **Vaal University of Technology** (May 2021).  
+💡 Passionate about backend and frontend development, dedicated to building scalable and maintainable software solutions that solve real-world        problems.  
+🌱 Always eager to expand my skill set, stay updated with the latest industry trends.
+🔍 Thrives in collaborative and fast-paced environments, valuing teamwork, communication, and continuous improvement.
 
 ---
 
@@ -27,7 +28,6 @@
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -38,7 +38,7 @@
 
 **Diploma in Information Technology**  
 📍 *Vaal University of Technology Graduate*  
-📅 *Graduated 2021*
+📅 *Graduated May 2021*
 
 ---
 
@@ -46,8 +46,9 @@
 
 ### 👩‍💻 Afrika Tikkun (DYICT) — Backend Software Developer Trainee 
 *May 2025 – October 2025*  
-- Developed Java backend web apps using OOP principles.  
-- Built console applications and collaborated via Git/GitHub.
+- Developed Java backend web application using Object-Oriented Programming(OOP) principles.  
+- Built console applications and collaborated with team members via Git/GitHub version control.
+- Gained exposure to backend tools and coding best practices.
 
 ---
 
@@ -65,10 +66,11 @@ AmbuConnect is a web-based emergency response system enabling patients to reques
 
 ## 🌟 Objectives
 
-- Collaborate on creative tech projects.  
-- Solve complex challenges and grow my skillset.  
-- Contribute positively to the tech community.  
-- Continue advancing my education.
+- Develop practical backend skills using Java and related tools.
+- Grow through hands-on experince and continuous learning.
+- Collaborate with teams to deliver efficient and scalable solutions.  
+- Learn industry best practices and improve code quality.  
+  
 
 ---
 
