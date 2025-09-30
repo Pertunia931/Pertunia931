@@ -14,7 +14,7 @@
 ## 👩‍🎓 About Me
 
 🎓 Diploma in Information Technology graduate from **Vaal University of Technology** (May 2021).  
-💡 Passionate about backend and frontend development, dedicated to building scalable and maintainable software solutions that solve real-world        problems.  
+💡 Passionate about backend and frontend development, dedicated to building scalable and maintainable software solutions that solve real-world problems.  
 🌱 Always eager to expand my skill set, stay updated with the latest industry trends.
 🔍 Thrives in collaborative and fast-paced environments, valuing teamwork, communication, and continuous improvement.
 
@@ -24,8 +24,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
