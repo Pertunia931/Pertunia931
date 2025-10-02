@@ -13,10 +13,10 @@
 
 ## 👩‍🎓 About Me
 
-🎓 Diploma in Information Technology graduate from **Vaal University of Technology** (May 2021).  
-💡 Passionate about backend and frontend development, dedicated to building scalable and maintainable software solutions that solve real-world problems.  
-🌱 Always eager to expand my skill set, stay updated with the latest industry trends.
-🔍 Thrives in collaborative and fast-paced environments, valuing teamwork, communication, and continuous improvement.
+🎓  Diploma in Information Technology graduate from **Vaal University of Technology** (May 2021).  
+💡  Passionate about backend and frontend development, dedicated to building scalable and maintainable software solutions that solve real-world problems.  
+🌱  Always eager to expand my skill set, stay updated with the latest industry trends.
+🔍  Thrives in collaborative and fast-paced environments, valuing teamwork, communication, and continuous improvement.
 
 ---
 
